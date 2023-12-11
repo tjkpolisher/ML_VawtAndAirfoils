@@ -2,6 +2,8 @@
 01_VAWT_wake/mlfiles/SeaWaterRho/
 01_VAWT_wake/mlfiles/tensorflow_datasets/
 01_VAWT_wake/mlfiles/y_output(all).csv
+01_VAWT_wake/mlfiles/Untitled.ipynb
+01_VAWT_wake/mlfiles/.ipynb_checkpoints/
 01_VAWT_wake/mlfiles/VAWT 데이터 증가(3바퀴)/L2Comparison/
 01_VAWT_wake/mlfiles/VAWT 데이터 증가(3바퀴)/.ipynb_checkpoints/
 01_VAWT_wake/mlfiles/VAWT 데이터 증가(3바퀴)/CreateOutputDataset(vorticityField).ipynb
