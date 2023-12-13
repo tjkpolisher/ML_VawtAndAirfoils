@@ -12,9 +12,7 @@
 
 # 02_2DSteadyAirfoil/
 # 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/
-02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.5_validation0.2test0.1
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25
-02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25_validation0.2test0.1
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/validationErrorDistribution.zip
