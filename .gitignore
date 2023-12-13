@@ -27,9 +27,17 @@
 02_2DSteadyAirfoil/AeroCNN2Inputs2/
 02_2DSteadyAirfoil/airfoilFlowField/
 02_2DSteadyAirfoil/CNN_poisson_files/
-02_2DSteadyAirfoil/interpolation/
-02_2DSteadyAirfoil/interpolation_origin/
-02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/
+
+02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/.ipynb_checkpoints
+02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/20221105/.ipynb_checkpoints
+02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/20221109/.ipynb_checkpoints
+02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/20221129/.ipynb_checkpoints
+02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/20221225/.ipynb_checkpoints
+02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/20230102/.ipynb_checkpoints
+02_2DSteadyAirfoil/MLPandAeroCNNwithRevisedData/20221101AirfoilFlowFieldPrediction(CNNautoencoder)(100kernels, 5x5, stride1, 4blocks)(validation0.2Test0.1)(randomSplit)alpha20.ipynb
+02_2DSteadyAirfoil/interpolation/interpolation.zip
+02_2DSteadyAirfoil/interpolation/initial_solution.zip
+02_2DSteadyAirfoil/interpolation/user_files.zip
 02_2DSteadyAirfoil/ppt/
 02_2DSteadyAirfoil/20221101AeroCNNII/20221101AeroCNNII사진.zip
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/validationErrorDistribution.zip
