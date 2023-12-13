@@ -11,7 +11,19 @@
 01_VAWT_wake/mlfiles/VAWT 데이터 증가(3바퀴)/Untitled.ipynb
 
 # 02_2DSteadyAirfoil/
-02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/
+# 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.5_validation0.2test0.1
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25_validation0.2test0.1
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/validationErrorDistribution.zip
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25_validation0.2test0.1/offset0.25_validation0.2test0.1.zip
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25_validation0.2test0.1/PressureField.zip
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25_validation0.2test0.1/UNet.zip
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25_validation0.2test0.1/ValLoss.zip
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.5_validation0.2test0.1/offset0.5_validation0.2test0.1.zip
+02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2/n_grid100/
 02_2DSteadyAirfoil/AeroCNN2Inputs/
 02_2DSteadyAirfoil/AeroCNN2Inputs2/
 02_2DSteadyAirfoil/AeroCNNII_Images/
