@@ -19,7 +19,6 @@
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.25_validation0.2test0.1/ValLoss.zip
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/offset0.5_validation0.2test0.1/offset0.5_validation0.2test0.1.zip
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2/n_grid100/
-02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2/n_grid128/velocityMagnitudeField
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2/n_grid128/velocityUField
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2/n_grid128/velocityVField
 02_2DSteadyAirfoil/20221103aeroCNNII(-1to1)/rotatedInterpolation_pow2/n_grid128(-1to1)offset0.5/
